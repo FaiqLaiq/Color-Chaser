@@ -1,0 +1,48 @@
+{
+    "highScores": [
+        {
+            "position": 1,
+            "user": {
+                "id": 1613028809,
+                "is_bot": false,
+                "first_name": "Ka",
+                "last_name": "Ching",
+                "language_code": "en"
+            },
+            "score": 101
+        },
+        {
+            "position": 2,
+            "user": {
+                "id": 1613028810,
+                "is_bot": false,
+                "first_name": "Faiq",
+                "last_name": "Laiq",
+                "language_code": "en"
+            },
+            "score": 66
+        },
+        {
+            "position": 3,
+            "user": {
+                "id": 1613028811,
+                "is_bot": false,
+                "first_name": "Baby",
+                "last_name": "Dog",
+                "language_code": "en"
+            },
+            "score": 53
+        },
+        {
+            "position": 4,
+            "user": {
+                "id": 1613028812,
+                "is_bot": false,
+                "first_name": "Saif",
+                "last_name": "Shakeel",
+                "language_code": "en"
+            },
+            "score": 23
+        }
+    ]
+}

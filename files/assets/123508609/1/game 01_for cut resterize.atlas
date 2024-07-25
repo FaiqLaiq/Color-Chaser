@@ -1,0 +1,174 @@
+
+game 01_for cut resterize.png
+size: 1292,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+123GO/1_fill
+  rotate: true
+  xy: 340, 214
+  size: 104, 199
+  orig: 147, 210
+  offset: 10, 4
+  index: -1
+123GO/2_fill
+  rotate: false
+  xy: 1136, 332
+  size: 136, 188
+  orig: 142, 203
+  offset: 6, 8
+  index: -1
+123GO/3_fill
+  rotate: true
+  xy: 1089, 2
+  size: 138, 194
+  orig: 141, 201
+  offset: 3, 4
+  index: -1
+123GO/GO_fill
+  rotate: false
+  xy: 2, 2
+  size: 301, 180
+  orig: 378, 306
+  offset: 32, 71
+  index: -1
+Electric/electric_14_00000
+  rotate: false
+  xy: 891, 118
+  size: 196, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Electric/electric_14_00001
+  rotate: false
+  xy: 487, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Electric/electric_14_00003
+  rotate: false
+  xy: 487, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Electric/electric_14_00005
+  rotate: false
+  xy: 487, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Electric/electric_14_00007
+  rotate: false
+  xy: 487, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Electric/electric_14_00009
+  rotate: false
+  xy: 487, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Electric/electric_14_00011
+  rotate: false
+  xy: 487, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Electric/electric_14_00012
+  rotate: false
+  xy: 487, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Electric/electric_14_00014
+  rotate: false
+  xy: 487, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Electric/electric_14_00016
+  rotate: false
+  xy: 487, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Electric/electric_14_00002
+  rotate: false
+  xy: 744, 320
+  size: 199, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Electric/electric_14_00004
+  rotate: false
+  xy: 340, 320
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Electric/electric_14_00006
+  rotate: false
+  xy: 487, 12
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Electric/electric_14_00010
+  rotate: false
+  xy: 542, 320
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Electric/electric_14_00013
+  rotate: true
+  xy: 945, 320
+  size: 200, 189
+  orig: 200, 200
+  offset: 0, 11
+  index: -1
+Electric/electric_14_00015
+  rotate: false
+  xy: 1089, 142
+  size: 200, 176
+  orig: 200, 200
+  offset: 0, 24
+  index: -1
+Electric/electric_14_00017
+  rotate: false
+  xy: 689, 118
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+circles/Ellipse 1
+  rotate: false
+  xy: 541, 214
+  size: 104, 104
+  orig: 110, 110
+  offset: 3, 3
+  index: -1
+circles/Ellipse 2
+  rotate: false
+  xy: 2, 184
+  size: 336, 336
+  orig: 342, 342
+  offset: 3, 3
+  index: -1
+circles/Ellipse 3
+  rotate: false
+  xy: 305, 2
+  size: 180, 180
+  orig: 188, 188
+  offset: 4, 4
+  index: -1
